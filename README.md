@@ -129,4 +129,3 @@ LinkedIn: linkedin.com/in/zobolidiogo
 ---
 
 Se este projeto foi útil, considere dar uma estrela no repositório!
-```
