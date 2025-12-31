@@ -98,7 +98,8 @@ Os dashboards permitem identificar:
 
 - dash_petshop.pbix - Dashboard completo Power BI (dados + transformações + visualizações)
 - documentacao_petshop.pdf - Documentação técnica detalhada com metodologia e prints
-- base_vendas_petshop.csv - Link para base de dados original no drive para download: https://drive.google.com/file/d/1YDjMoSVvkfCs2lICCcQExGsKW4ACvIdN/view?usp=drive_link
+- base_vendas_petshop.csv - Link para base de dados original no drive para download:
+  drive.google.com/file/d/1YDjMoSVvkfCs2lICCcQExGsKW4ACvIdN/view?usp=drive_link
 
 ---
 
